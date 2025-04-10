@@ -17,8 +17,8 @@ Este proyecto fue desarrollado utilizando Django y Python en un entorno virtual.
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/ksotoc2/clase-django.git
+cd clase-django
 ```
 
 2. Crea el entorno virtual llamado `admin`:
